@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  font-family: 'Space Grotesk', sans-serif;
+  background-color: #151b1d;
+  color: #ecf2f4;
 }
 
 .App-logo {

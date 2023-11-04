@@ -1,0 +1,13 @@
+.contact-card .name {
+    float: left;
+}
+
+.heart {
+    color: #e36940;
+    padding-inline-end: 5px;
+}
+
+.trash {
+    color: #5a7d7c;
+    padding-inline-start: 5px;
+}

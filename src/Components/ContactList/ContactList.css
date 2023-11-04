@@ -1,0 +1,47 @@
+.contact {
+    background-color: #151b1d;
+    /* padding: 16px; */
+    border: 1px solid #5a7d7c;
+    list-style-type: none;
+}
+
+li {
+    padding: 10px;
+    border: 10px;
+    margin: 10px;
+    white-space: nowrap;
+}
+
+ul {
+    padding: 0;
+    width: 100%;
+}
+
+.contact-list {
+    width: 100%;
+    padding: 0;
+    padding-left: 0;
+    margin: 0;
+}
+
+.contact-card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h3 {
+    text-align: left;
+    margin-block-end: 55px;
+    padding-inline-end: 15px;
+}
+
+p {
+    text-align: left;
+}
+
+p.phone-number {
+    border-bottom: solid 1px #5a7d7c;
+    padding-block-end: 1em;
+}
